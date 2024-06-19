@@ -1,2 +1,2 @@
-# ArduinoObjectSensor
+# HCSRO4 Sensor
 Vasudha
